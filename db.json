@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "id": "1",
+      "id": "benzene",
       "name": "ExtChem - Benzene",
       "CAS": "CAS 71-43-2",
       "smiles": "c1ccccc1"
     },
     {
-      "id": "2",
+      "id": "cyclohexane",
       "name": "ExtChem - Cyclohexane",
       "CAS": "CAS 110-82-7",
       "smiles": "C1CCCCC1"
